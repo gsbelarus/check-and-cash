@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<MENU_LIST>
+  <MENU NAME="Завтрак" ID="1" ACTIVE_FROM="01.01.2015">
+    <MEAL_GROUP NAME="Супы" ID="130">
+      <MEAL NAME="Свежие и маринованные огурчики в сливочном соусе в конвертике" ID="2530" PRICE="17.4" BARCODE="11234568987" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME="Кухня"/>
+      <MEAL NAME="Уха Царская с блинчиками" ID="1016" PRICE="10.4" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Завтрак" ID="2303">
+      <MEAL NAME="Клаб-сэндвич с колбаской и свежими овощами" ID="2529" PRICE="10.9" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Постное" ID="100">
+      <MEAL NAME="Салат в багряных тонах" ID="1008" PRICE="13.2" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Салат из свежих овощей с рыбой" ID="258" PRICE="13.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Блюда из свинины" ID="180">
+      <MEAL NAME="Голубцы домашние" ID="242" PRICE="13.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Вторые блюда из говядины" ID="190">
+      <MEAL NAME="Бифштекс с яйцом" ID="243" PRICE="30.4" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Вторые блюда из птицы" ID="170">
+      <MEAL NAME="Котлета по-киевски" ID="244" PRICE="21.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Куриное филе со шпинатом и сыром" ID="246" PRICE="25.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Люля-кебаб из цыплёнка с лавашем" ID="250" PRICE="25.9" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Потрошка в соусе" ID="251" PRICE="24.7" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Роллы по-советски" ID="247" PRICE="29.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Филе цыплят с грибами и драниками" ID="248" PRICE="30.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Шашлык из куриных крылышек" ID="249" PRICE="21.4" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Шницель по-министерски" ID="1052" PRICE="21.7" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Гарниры" ID="160">
+      <MEAL NAME="Гарнир к карпу с травами в фольге" ID="253" PRICE="13.2" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Гарнир к форели-гриль" ID="252" PRICE="13.26" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Гарнир к цыплятам-табака с соусом" ID="254" PRICE="12.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Холодные соусы" ID="200">
+      <MEAL NAME="Горчичный" ID="1030" PRICE="1.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Ореховый" ID="1031" PRICE="1.5" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Хлебо-булочные изделия" ID="220">
+      <MEAL NAME="Булочка мини французская" ID="1024" PRICE="0.9" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Хлебушек Мини французский 45гр" ID="1023" PRICE="1.9" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Десерты" ID="230">
+      <MEAL NAME="Блинчики с клубникой" ID="257" PRICE="6.4" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Фрукты" ID="240">
+      <MEAL NAME="Виноград" ID="1020" PRICE="7.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Грейпфрукт" ID="1019" PRICE="2.3" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Лимон" ID="1021" PRICE="2.4" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Мандарины" ID="1018" PRICE="1.9" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Яблоко" ID="1022" PRICE="2.3" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Холодные закуски" ID="110">
+      <MEAL NAME="Ассорти рыбное" ID="1027" PRICE="44.7" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Волованы с красной икрой" ID="1028" PRICE="16.9" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Икра красная в перепелином яйце" ID="1026" PRICE="13.9" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Икра красная на льду" ID="1025" PRICE="30.2" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Салаты" ID="120">
+      <MEAL NAME="Салат &quot;Витаминный&quot;" ID="1033" PRICE="10.7" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Салат &quot;Заморский&quot;" ID="1009" PRICE="20.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Салат &quot;Сельдь под шубой&quot;" ID="1010" PRICE="9.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Салат Греческий" ID="1013" PRICE="21.5" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Салат овощной" ID="1011" PRICE="13.4" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Горячие закуски" ID="140">
+      <MEAL NAME="блинчики с икрой" ID="1004" PRICE="18.7" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Жульен из морепродуктов в сливочном соусе" ID="1005" PRICE="25.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Жульен из языка" ID="1007" PRICE="14.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Закуска Партийная" ID="1006" PRICE="25.7" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Вторые блюда из рыбы и морепродуктов" ID="150">
+      <MEAL NAME="Котлета рыбная &quot;Деликотесная&quot; с зелёным маслом" ID="1003" PRICE="38.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+      <MEAL NAME="Рыбный дуэт" ID="1002" PRICE="56.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    </MEAL_GROUP>
+  </MENU>
+  <MENU NAME="Обед" ID="2" ACTIVE_FROM="05.09.2013" ACTIVE_TO="31.12.2024">
+    <MEAL_GROUP NAME="Табачные изделия" ID="231">
+      <MEAL NAME="Винстон" ID="1036" PRICE="4.5" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="2" PRINTGROUP_NAME="Бар" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Бар"/>
+      <MEAL NAME="Орбита люкс" ID="1037" PRICE="1.7" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="2" PRINTGROUP_NAME="Бар" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Бар"/>
+      <MEAL NAME="Сигара &quot;Ромео и Джульета&quot;" ID="1038" PRICE="8.3" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="2" PRINTGROUP_NAME="Бар" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Бар"/>
+      <MEAL NAME="Сигара д.Сэма" ID="1039" PRICE="8.6" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="2" PRINTGROUP_NAME="Бар" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Бар"/>
+    </MEAL_GROUP>
+    <MEAL_GROUP NAME="Спиртные напитки" ID="235">
+      <MEAL NAME="Водка &quot;Кристалл&quot;" ID="1041" PRICE="13.0" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="2" PRINTGROUP_NAME="Бар" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Бар"/>
+    </MEAL_GROUP>
+  </MENU>
+</MENU_LIST>
