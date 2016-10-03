@@ -1,89 +1,89 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MENU_LIST>
-  <MENU NAME="Завтрак" ID="1" ACTIVE_FROM="01.01.2015">
-    <MEAL_GROUP NAME="Супы" ID="130">
-      <MEAL NAME="Свежие и маринованные огурчики в сливочном соусе в конвертике" ID="2530" PRICE="17.4" BARCODE="11234568987" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME="Кухня"/>
-      <MEAL NAME="Уха Царская с блинчиками" ID="1016" PRICE="10.4" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+  <MENU NAME="Р—Р°РІС‚СЂР°Рє" ID="1" ACTIVE_FROM="01.09.2016">
+    <MEAL_GROUP NAME="РЎСѓРїС‹" ID="130">
+      <MEAL NAME="РЎРІРµР¶РёРµ Рё РјР°СЂРёРЅРѕРІР°РЅРЅС‹Рµ РѕРіСѓСЂС‡РёРєРё РІ СЃР»РёРІРѕС‡РЅРѕРј СЃРѕСѓСЃРµ РІ РєРѕРЅРІРµСЂС‚РёРєРµ" ID="2530" PRICE="17.4" BARCODE="11234568987" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME="РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РЈС…Р° Р¦Р°СЂСЃРєР°СЏ СЃ Р±Р»РёРЅС‡РёРєР°РјРё" ID="1016" PRICE="10.4" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Завтрак" ID="2303">
-      <MEAL NAME="Клаб-сэндвич с колбаской и свежими овощами" ID="2529" PRICE="10.9" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="Р—Р°РІС‚СЂР°Рє" ID="2303">
+      <MEAL NAME="РљР»Р°Р±-СЃСЌРЅРґРІРёС‡ СЃ РєРѕР»Р±Р°СЃРєРѕР№ Рё СЃРІРµР¶РёРјРё РѕРІРѕС‰Р°РјРё" ID="2529" PRICE="10.9" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Постное" ID="100">
-      <MEAL NAME="Салат в багряных тонах" ID="1008" PRICE="13.2" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Салат из свежих овощей с рыбой" ID="258" PRICE="13.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="РџРѕСЃС‚РЅРѕРµ" ID="100">
+      <MEAL NAME="РЎР°Р»Р°С‚ РІ Р±Р°РіСЂСЏРЅС‹С… С‚РѕРЅР°С…" ID="1008" PRICE="13.2" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РЎР°Р»Р°С‚ РёР· СЃРІРµР¶РёС… РѕРІРѕС‰РµР№ СЃ СЂС‹Р±РѕР№" ID="258" PRICE="13.6" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Блюда из свинины" ID="180">
-      <MEAL NAME="Голубцы домашние" ID="242" PRICE="13.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="Р‘Р»СЋРґР° РёР· СЃРІРёРЅРёРЅС‹" ID="180">
+      <MEAL NAME="Р“РѕР»СѓР±С†С‹ РґРѕРјР°С€РЅРёРµ" ID="242" PRICE="13.6" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Вторые блюда из говядины" ID="190">
-      <MEAL NAME="Бифштекс с яйцом" ID="243" PRICE="30.4" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="Р’С‚РѕСЂС‹Рµ Р±Р»СЋРґР° РёР· РіРѕРІСЏРґРёРЅС‹" ID="190">
+      <MEAL NAME="Р‘РёС„С€С‚РµРєСЃ СЃ СЏР№С†РѕРј" ID="243" PRICE="30.4" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Вторые блюда из птицы" ID="170">
-      <MEAL NAME="Котлета по-киевски" ID="244" PRICE="21.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Куриное филе со шпинатом и сыром" ID="246" PRICE="25.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Люля-кебаб из цыплёнка с лавашем" ID="250" PRICE="25.9" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Потрошка в соусе" ID="251" PRICE="24.7" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Роллы по-советски" ID="247" PRICE="29.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Филе цыплят с грибами и драниками" ID="248" PRICE="30.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Шашлык из куриных крылышек" ID="249" PRICE="21.4" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Шницель по-министерски" ID="1052" PRICE="21.7" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="Р’С‚РѕСЂС‹Рµ Р±Р»СЋРґР° РёР· РїС‚РёС†С‹" ID="170">
+      <MEAL NAME="РљРѕС‚Р»РµС‚Р° РїРѕ-РєРёРµРІСЃРєРё" ID="244" PRICE="21.6" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РљСѓСЂРёРЅРѕРµ С„РёР»Рµ СЃРѕ С€РїРёРЅР°С‚РѕРј Рё СЃС‹СЂРѕРј" ID="246" PRICE="25.0" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="Р›СЋР»СЏ-РєРµР±Р°Р± РёР· С†С‹РїР»С‘РЅРєР° СЃ Р»Р°РІР°С€РµРј" ID="250" PRICE="25.9" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РџРѕС‚СЂРѕС€РєР° РІ СЃРѕСѓСЃРµ" ID="251" PRICE="24.7" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="Р РѕР»Р»С‹ РїРѕ-СЃРѕРІРµС‚СЃРєРё" ID="247" PRICE="29.6" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="Р¤РёР»Рµ С†С‹РїР»СЏС‚ СЃ РіСЂРёР±Р°РјРё Рё РґСЂР°РЅРёРєР°РјРё" ID="248" PRICE="30.0" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РЁР°С€Р»С‹Рє РёР· РєСѓСЂРёРЅС‹С… РєСЂС‹Р»С‹С€РµРє" ID="249" PRICE="21.4" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РЁРЅРёС†РµР»СЊ РїРѕ-РјРёРЅРёСЃС‚РµСЂСЃРєРё" ID="1052" PRICE="21.7" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Гарниры" ID="160">
-      <MEAL NAME="Гарнир к карпу с травами в фольге" ID="253" PRICE="13.2" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Гарнир к форели-гриль" ID="252" PRICE="13.26" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Гарнир к цыплятам-табака с соусом" ID="254" PRICE="12.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="Р“Р°СЂРЅРёСЂС‹" ID="160">
+      <MEAL NAME="Р“Р°СЂРЅРёСЂ Рє РєР°СЂРїСѓ СЃ С‚СЂР°РІР°РјРё РІ С„РѕР»СЊРіРµ" ID="253" PRICE="13.2" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="Р“Р°СЂРЅРёСЂ Рє С„РѕСЂРµР»Рё-РіСЂРёР»СЊ" ID="252" PRICE="13.26" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="Р“Р°СЂРЅРёСЂ Рє С†С‹РїР»СЏС‚Р°Рј-С‚Р°Р±Р°РєР° СЃ СЃРѕСѓСЃРѕРј" ID="254" PRICE="12.0" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Холодные соусы" ID="200">
-      <MEAL NAME="Горчичный" ID="1030" PRICE="1.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Ореховый" ID="1031" PRICE="1.5" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="РҐРѕР»РѕРґРЅС‹Рµ СЃРѕСѓСЃС‹" ID="200">
+      <MEAL NAME="Р“РѕСЂС‡РёС‡РЅС‹Р№" ID="1030" PRICE="1.0" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РћСЂРµС…РѕРІС‹Р№" ID="1031" PRICE="1.5" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Хлебо-булочные изделия" ID="220">
-      <MEAL NAME="Булочка мини французская" ID="1024" PRICE="0.9" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Хлебушек Мини французский 45гр" ID="1023" PRICE="1.9" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="РҐР»РµР±Рѕ-Р±СѓР»РѕС‡РЅС‹Рµ РёР·РґРµР»РёСЏ" ID="220">
+      <MEAL NAME="Р‘СѓР»РѕС‡РєР° РјРёРЅРё С„СЂР°РЅС†СѓР·СЃРєР°СЏ" ID="1024" PRICE="0.9" CATEGORY_ID="2" CATEGORY_NAME="Р‘Р°СЂ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РҐР»РµР±СѓС€РµРє РњРёРЅРё С„СЂР°РЅС†СѓР·СЃРєРёР№ 45РіСЂ" ID="1023" PRICE="1.9" CATEGORY_ID="2" CATEGORY_NAME="Р‘Р°СЂ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Десерты" ID="230">
-      <MEAL NAME="Блинчики с клубникой" ID="257" PRICE="6.4" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="Р”РµСЃРµСЂС‚С‹" ID="230">
+      <MEAL NAME="Р‘Р»РёРЅС‡РёРєРё СЃ РєР»СѓР±РЅРёРєРѕР№" ID="257" PRICE="6.4" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Фрукты" ID="240">
-      <MEAL NAME="Виноград" ID="1020" PRICE="7.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Грейпфрукт" ID="1019" PRICE="2.3" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Лимон" ID="1021" PRICE="2.4" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Мандарины" ID="1018" PRICE="1.9" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Яблоко" ID="1022" PRICE="2.3" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="Р¤СЂСѓРєС‚С‹" ID="240">
+      <MEAL NAME="Р’РёРЅРѕРіСЂР°Рґ" ID="1020" PRICE="7.0" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="Р“СЂРµР№РїС„СЂСѓРєС‚" ID="1019" PRICE="2.3" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="Р›РёРјРѕРЅ" ID="1021" PRICE="2.4" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РњР°РЅРґР°СЂРёРЅС‹" ID="1018" PRICE="1.9" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РЇР±Р»РѕРєРѕ" ID="1022" PRICE="2.3" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Холодные закуски" ID="110">
-      <MEAL NAME="Ассорти рыбное" ID="1027" PRICE="44.7" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Волованы с красной икрой" ID="1028" PRICE="16.9" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Икра красная в перепелином яйце" ID="1026" PRICE="13.9" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Икра красная на льду" ID="1025" PRICE="30.2" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="РҐРѕР»РѕРґРЅС‹Рµ Р·Р°РєСѓСЃРєРё" ID="110">
+      <MEAL NAME="РђСЃСЃРѕСЂС‚Рё СЂС‹Р±РЅРѕРµ" ID="1027" PRICE="44.7" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="Р’РѕР»РѕРІР°РЅС‹ СЃ РєСЂР°СЃРЅРѕР№ РёРєСЂРѕР№" ID="1028" PRICE="16.9" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РРєСЂР° РєСЂР°СЃРЅР°СЏ РІ РїРµСЂРµРїРµР»РёРЅРѕРј СЏР№С†Рµ" ID="1026" PRICE="13.9" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РРєСЂР° РєСЂР°СЃРЅР°СЏ РЅР° Р»СЊРґСѓ" ID="1025" PRICE="30.2" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Салаты" ID="120">
-      <MEAL NAME="Салат &quot;Витаминный&quot;" ID="1033" PRICE="10.7" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Салат &quot;Заморский&quot;" ID="1009" PRICE="20.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Салат &quot;Сельдь под шубой&quot;" ID="1010" PRICE="9.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Салат Греческий" ID="1013" PRICE="21.5" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Салат овощной" ID="1011" PRICE="13.4" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="РЎР°Р»Р°С‚С‹" ID="120">
+      <MEAL NAME="РЎР°Р»Р°С‚ &quot;Р’РёС‚Р°РјРёРЅРЅС‹Р№&quot;" ID="1033" PRICE="10.7" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РЎР°Р»Р°С‚ &quot;Р—Р°РјРѕСЂСЃРєРёР№&quot;" ID="1009" PRICE="20.0" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РЎР°Р»Р°С‚ &quot;РЎРµР»СЊРґСЊ РїРѕРґ С€СѓР±РѕР№&quot;" ID="1010" PRICE="9.6" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РЎР°Р»Р°С‚ Р“СЂРµС‡РµСЃРєРёР№" ID="1013" PRICE="21.5" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="РЎР°Р»Р°С‚ РѕРІРѕС‰РЅРѕР№" ID="1011" PRICE="13.4" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Горячие закуски" ID="140">
-      <MEAL NAME="блинчики с икрой" ID="1004" PRICE="18.7" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Жульен из морепродуктов в сливочном соусе" ID="1005" PRICE="25.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Жульен из языка" ID="1007" PRICE="14.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Закуска Партийная" ID="1006" PRICE="25.7" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="Р“РѕСЂСЏС‡РёРµ Р·Р°РєСѓСЃРєРё" ID="140">
+      <MEAL NAME="Р±Р»РёРЅС‡РёРєРё СЃ РёРєСЂРѕР№" ID="1004" PRICE="18.7" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="Р–СѓР»СЊРµРЅ РёР· РјРѕСЂРµРїСЂРѕРґСѓРєС‚РѕРІ РІ СЃР»РёРІРѕС‡РЅРѕРј СЃРѕСѓСЃРµ" ID="1005" PRICE="25.6" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="Р–СѓР»СЊРµРЅ РёР· СЏР·С‹РєР°" ID="1007" PRICE="14.0" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="Р—Р°РєСѓСЃРєР° РџР°СЂС‚РёР№РЅР°СЏ" ID="1006" PRICE="25.7" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Вторые блюда из рыбы и морепродуктов" ID="150">
-      <MEAL NAME="Котлета рыбная &quot;Деликотесная&quot; с зелёным маслом" ID="1003" PRICE="38.6" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
-      <MEAL NAME="Рыбный дуэт" ID="1002" PRICE="56.0" CATEGORY_ID="1" CATEGORY_NAME="Кухня" PRINTGROUP_ID="1" PRINTGROUP_NAME="Холодный цех" DEPARTMENT_ID="1" DEPARTMENT_NAME = "Кухня"/>
+    <MEAL_GROUP NAME="Р’С‚РѕСЂС‹Рµ Р±Р»СЋРґР° РёР· СЂС‹Р±С‹ Рё РјРѕСЂРµРїСЂРѕРґСѓРєС‚РѕРІ" ID="150">
+      <MEAL NAME="РљРѕС‚Р»РµС‚Р° СЂС‹Р±РЅР°СЏ &quot;Р”РµР»РёРєРѕС‚РµСЃРЅР°СЏ&quot; СЃ Р·РµР»С‘РЅС‹Рј РјР°СЃР»РѕРј" ID="1003" PRICE="38.6" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
+      <MEAL NAME="Р С‹Р±РЅС‹Р№ РґСѓСЌС‚" ID="1002" PRICE="56.0" CATEGORY_ID="1" CATEGORY_NAME="РљСѓС…РЅСЏ" PRINTGROUP_ID="1" PRINTGROUP_NAME="РҐРѕР»РѕРґРЅС‹Р№ С†РµС…" DEPARTMENT_ID="1" DEPARTMENT_NAME = "РљСѓС…РЅСЏ"/>
     </MEAL_GROUP>
   </MENU>
-  <MENU NAME="Обед" ID="2" ACTIVE_FROM="05.09.2013" ACTIVE_TO="31.12.2024">
-    <MEAL_GROUP NAME="Табачные изделия" ID="231">
-      <MEAL NAME="Винстон" ID="1036" PRICE="4.5" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="2" PRINTGROUP_NAME="Бар" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Бар"/>
-      <MEAL NAME="Орбита люкс" ID="1037" PRICE="1.7" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="2" PRINTGROUP_NAME="Бар" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Бар"/>
-      <MEAL NAME="Сигара &quot;Ромео и Джульета&quot;" ID="1038" PRICE="8.3" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="2" PRINTGROUP_NAME="Бар" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Бар"/>
-      <MEAL NAME="Сигара д.Сэма" ID="1039" PRICE="8.6" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="2" PRINTGROUP_NAME="Бар" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Бар"/>
+  <MENU NAME="РћР±РµРґ" ID="2" ACTIVE_FROM="05.09.2013" ACTIVE_TO="31.12.2024">
+    <MEAL_GROUP NAME="РўР°Р±Р°С‡РЅС‹Рµ РёР·РґРµР»РёСЏ" ID="231">
+      <MEAL NAME="Р’РёРЅСЃС‚РѕРЅ" ID="1036" PRICE="4.5" CATEGORY_ID="2" CATEGORY_NAME="Р‘Р°СЂ" PRINTGROUP_ID="2" PRINTGROUP_NAME="Р‘Р°СЂ" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Р‘Р°СЂ"/>
+      <MEAL NAME="РћСЂР±РёС‚Р° Р»СЋРєСЃ" ID="1037" PRICE="1.7" CATEGORY_ID="2" CATEGORY_NAME="Р‘Р°СЂ" PRINTGROUP_ID="2" PRINTGROUP_NAME="Р‘Р°СЂ" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Р‘Р°СЂ"/>
+      <MEAL NAME="РЎРёРіР°СЂР° &quot;Р РѕРјРµРѕ Рё Р”Р¶СѓР»СЊРµС‚Р°&quot;" ID="1038" PRICE="8.3" CATEGORY_ID="2" CATEGORY_NAME="Р‘Р°СЂ" PRINTGROUP_ID="2" PRINTGROUP_NAME="Р‘Р°СЂ" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Р‘Р°СЂ"/>
+      <MEAL NAME="РЎРёРіР°СЂР° Рґ.РЎСЌРјР°" ID="1039" PRICE="8.6" CATEGORY_ID="2" CATEGORY_NAME="Р‘Р°СЂ" PRINTGROUP_ID="2" PRINTGROUP_NAME="Р‘Р°СЂ" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Р‘Р°СЂ"/>
     </MEAL_GROUP>
-    <MEAL_GROUP NAME="Спиртные напитки" ID="235">
-      <MEAL NAME="Водка &quot;Кристалл&quot;" ID="1041" PRICE="13.0" CATEGORY_ID="2" CATEGORY_NAME="Бар" PRINTGROUP_ID="2" PRINTGROUP_NAME="Бар" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Бар"/>
+    <MEAL_GROUP NAME="РЎРїРёСЂС‚РЅС‹Рµ РЅР°РїРёС‚РєРё" ID="235">
+      <MEAL NAME="Р’РѕРґРєР° &quot;РљСЂРёСЃС‚Р°Р»Р»&quot;" ID="1041" PRICE="13.0" CATEGORY_ID="2" CATEGORY_NAME="Р‘Р°СЂ" PRINTGROUP_ID="2" PRINTGROUP_NAME="Р‘Р°СЂ" DEPARTMENT_ID="2" DEPARTMENT_NAME = "Р‘Р°СЂ"/>
     </MEAL_GROUP>
   </MENU>
 </MENU_LIST>
