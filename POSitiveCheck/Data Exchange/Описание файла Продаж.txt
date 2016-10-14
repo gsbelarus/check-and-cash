@@ -1,39 +1,49 @@
 Файл sales.xml содержит данные о продажах, выгруженных из программного продукта Positive: check
 ---------------------------------------------------------------------------------------------------------------------------
-<?xml version="1.0" encoding="Windows-1251"?>
+<?xml version="1.0" encoding="utf-8"?>
 <SALES_LIST>
-<ORDER STAFF_CARD_NUM="" DISC_CARD_NUM="" TOTAL_SUM="81.9" CHECK_NUM="6" TIME="9:21:18 PM" DATE="12.10.2016" NUMBER="28" ID="147068369">
-<ORDER>
+<ORDER ID="147068683" NUMBER="47" DATE="14.10.2016" TIME="4:38:33 PM" CHECK_NUM="22" TOTAL_SUM="27.36" DISC_CARD_NUM="1" STAFF_CARD_NUM="" ADVANCE_SUM="0" ADVANCE_NUMBER="0">
 	<LINE_LIST>
-		<LINE ID="149460954" DEPARTMENT_ID="1" MEAL_ID="1006" QTY="1" PRICE="20.0" SUMDISCOUNT="10.0"/>
+		<LINE ID="147068684" DEPARTMENT_ID="1" MEAL_ID="2530" QTY="1" PRICE="17.4" SUMDISCOUNT="3.48"/>
+		<LINE ID="147068685" DEPARTMENT_ID="1" MEAL_ID="1016" QTY="1" PRICE="10.4" SUMDISCOUNT="2.08"/>
+		<LINE ID="147068686" DEPARTMENT_ID="1" MEAL_ID="257" QTY="1" PRICE="6.4" SUMDISCOUNT="1.28"/>
 	</LINE_LIST>
 	<PAYMENT_LIST>
-		<PAYMENT ID="149461170" ALIAS="1" SUMNCU="10.0"/>
+		<PAYMENT ID="147068688" ALIAS="3" SUMNCU="20"/>
+		<PAYMENT ID="147068689" ALIAS="1" SUMNCU="7.36"/>
 	</PAYMENT_LIST>
 </ORDER>
 
 ---------------------------------------------------------------------------------------------------------------------------
 Описание атрибутов
 ---------------------------------------------------------------------------------------------------------------------------
+Элемент "Список заказов":
+
+<SALES_LIST>
+
+---------------------------------------------------------------------------------------------------------------------------
 Элемент "Заказ":
 
-<ORDER STAFF_CARD_NUM="" DISC_CARD_NUM="" TOTAL_SUM="81.9" CHECK_NUM="6" TIME="9:21:18 PM" DATE="12.10.2016" NUMBER="28" ID="147068369">
+<ORDER ID="147068683" NUMBER="47" DATE="14.10.2016" TIME="4:38:33 PM" CHECK_NUM="22" TOTAL_SUM="27.36" DISC_CARD_NUM="1" STAFF_CARD_NUM="" ADVANCE_SUM="0" ADVANCE_NUMBER="0">
 
-STAFF_CARD_NUM - Номер карты работника 
-DISC_CARD_NUM - Номер дисконтной карты
-TOTAL_SUM - Сумма заказа
 ID - Уникальный код заказа
 NUMBER - Номер заказа (стола)
 DATE - Дата заказа
 TIME - Время закрытия заказа
 CHECK_NUM - Номер чека заказа
+TOTAL_SUM - Сумма заказа
+DISC_CARD_NUM - Номер дисконтной карты
+STAFF_CARD_NUM - Номер карты работника 
+ADVANCE_SUM - Сумма использованного аванса
+ADVANCE_NUMBER - Номер использованного аванса
 ---------------------------------------------------------------------------------------------------------------------------
 Элемент "Список позиций"
 <LINE_LIST>
 
 Элемент "Позиция заказа":
 
-<LINE ID="149460954" DEPARTMENT_ID="3" MEAL_ID="1006" QTY="1" PRICE="20.0" SUMDISCOUNT="10.0"/>
+<LINE ID="147068684" DEPARTMENT_ID="1" MEAL_ID="2530" QTY="1" PRICE="17.4" SUMDISCOUNT="3.48"/>
+
 ID - Уникальный код позиции заказа
 DEPARTMENT_ID - Код подразделения
 MEAL_ID - Код блюда
@@ -46,7 +56,7 @@ SUMDISCOUNT - Сумма скидки
 <PAYMENT_LIST>
 
 Элемент "Оплата аказа":
-<PAYMENT ID="149461170" ALIAS="1" SUMNCU="10.0"/>
+<PAYMENT ID="147068689" ALIAS="1" SUMNCU="7.36"/>
 
 ID - Уникальный код документа оплаты
 ALIAS - Код типа оплаты
