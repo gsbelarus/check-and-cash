@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T14:12:34.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 OPR/80.0.4170.16" etag="tQ6190VhSR2qGBsSh1nL" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T14:13:22.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 OPR/80.0.4170.16" etag="52D4wm9ydr-vDntSP683" version="15.5.2" type="github">
   <diagram id="GxYnLsHXxuP-54g7DX-x" name="Page-1">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,13 +34,14 @@
         <mxCell id="fbP9ISJhYm2EwNBeFBmf-14" value="изъять деньги из кассы" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="fbP9ISJhYm2EwNBeFBmf-4" vertex="1">
           <mxGeometry x="250" y="100" width="120" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="fbP9ISJhYm2EwNBeFBmf-15" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="fbP9ISJhYm2EwNBeFBmf-4" source="fbP9ISJhYm2EwNBeFBmf-7" target="fbP9ISJhYm2EwNBeFBmf-13" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
+        <mxCell id="fbP9ISJhYm2EwNBeFBmf-15" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="fbP9ISJhYm2EwNBeFBmf-4" source="fbP9ISJhYm2EwNBeFBmf-7" target="fbP9ISJhYm2EwNBeFBmf-13" edge="1">
+          <mxGeometry x="-0.2118" y="62" width="160" relative="1" as="geometry">
             <mxPoint x="100" y="210" as="sourcePoint" />
             <mxPoint x="260" y="210" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fbP9ISJhYm2EwNBeFBmf-16" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="fbP9ISJhYm2EwNBeFBmf-4" source="fbP9ISJhYm2EwNBeFBmf-7" target="fbP9ISJhYm2EwNBeFBmf-14" edge="1">
+        <mxCell id="fbP9ISJhYm2EwNBeFBmf-16" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="fbP9ISJhYm2EwNBeFBmf-4" source="fbP9ISJhYm2EwNBeFBmf-7" target="fbP9ISJhYm2EwNBeFBmf-14" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="169.60453615226788" y="81.22528350951677" as="sourcePoint" />
             <mxPoint x="270.46975398883137" y="88.44111959014765" as="targetPoint" />
